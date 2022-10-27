@@ -20,6 +20,9 @@ The objective of this repository is to grind in `[leetcode](https://leetcode.com
 
 ✅ **[13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)**
 
+✅ **[724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)**
+
+
 ------
 
 ![golang-course-thumb.jpeg](./golang-course-thumb.jpeg)
