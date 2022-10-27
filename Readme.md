@@ -22,6 +22,9 @@ The objective of this repository is to grind in `[leetcode](https://leetcode.com
 
 ✅ **[724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)**
 
+✅ **[1480. Running sum](https://leetcode.com/problems/running-sum-of-1d-array/)**
+
+
 
 ------
 
