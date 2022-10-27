@@ -14,6 +14,8 @@ func isIsomorphic(s string, t string) bool {
 			m2[t[i]] = s[i]
 		}
 
+		fmt.Println(m2[t[i]], s[i])
+
 		if m[s[i]] != t[i] || m2[t[i]] != s[i] {
 			return false
 		}
@@ -23,10 +25,10 @@ func isIsomorphic(s string, t string) bool {
 }
 
 func main() {
-	fmt.Println(isIsomorphic("paper", "title")) // truer
-	fmt.Println(isIsomorphic("egg", "add"))     // true
-	fmt.Println(isIsomorphic("foo", "bar"))     // false
-	fmt.Println(isIsomorphic("abc", "abc"))     // true
-	fmt.Println(isIsomorphic("badc", "baba"))   // false
-	fmt.Println(isIsomorphic("egcd", "adfd"))   // false
+	// fmt.Println(isIsomorphic("paper", "title")) // truer
+	// fmt.Println(isIsomorphic("egg", "add"))     // true
+	// fmt.Println(isIsomorphic("foo", "bar")) // false
+	// fmt.Println(isIsomorphic("abc", "abc"))     // true
+	// fmt.Println(isIsomorphic("badc", "baba"))   // false
+	fmt.Println(isIsomorphic("egcd", "adfd")) // false
 }

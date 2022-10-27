@@ -24,6 +24,9 @@ The objective of this repository is to grind in `[leetcode](https://leetcode.com
 
 ✅ **[1480. Running sum](https://leetcode.com/problems/running-sum-of-1d-array/)**
 
+✅ **[205. Isomorphic strings](https://leetcode.com/problems/isomorphic-strings/)**
+
+✅ **[392. Is Subsequence](https://leetcode.com/problems/is-subsequence/)**
 
 
 ------
