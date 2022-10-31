@@ -23,5 +23,5 @@ func countLetters(s string) map[rune]int {
 }
 
 func main() {
-	fmt.Println(longestPalindrome("a"))
+	fmt.Println(longestPalindrome("abccccdd"))
 }

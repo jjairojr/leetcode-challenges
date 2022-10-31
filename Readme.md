@@ -27,6 +27,8 @@ The objective of this repository is to grind in `[leetcode](https://leetcode.com
 ✅ **[205. Isomorphic strings](https://leetcode.com/problems/isomorphic-strings/)**
 
 ✅ **[392. Is Subsequence](https://leetcode.com/problems/is-subsequence/)**
+✅ **[766. Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)**
+✅ **[409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)**
 
 
 ------
