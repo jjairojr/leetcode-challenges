@@ -30,6 +30,7 @@ The objective of this repository is to grind in `[leetcode](https://leetcode.com
 ✅ **[766. Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)**
 ✅ **[409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)**
 ✅ **[7. Reverse Integer](https://leetcode.com/problems/reverse-integer/)**
+✅ **[9. String to Integer](https://leetcode.com/problems/string-to-integer-atoi)**
 
 ---
 
